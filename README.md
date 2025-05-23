@@ -14,14 +14,9 @@ Estilo/género: portafolio
 
 Logotipo : ![IMG_3424 (1)](https://github.com/user-attachments/assets/3013d837-74f6-4b5c-b087-1820635ef94f)
 
+Resolución: 600x400px 
 
-(insertar imágenes a resolucion de 100px alto)
-
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-Tamaño proyecto: 14MB
+Tamaño proyecto: 70,4MB
 
 Fecha : 23/05/2025
 
@@ -45,11 +40,8 @@ Este proyecto es interesante porque muestra mis obras e información personal de
 Orientado a las personas interesadas en mi obra personal.
 
 Etapa 2: Desarrollo / actividades realizadas
+Al acabar la animación del principio, se pasa automáticamente a la siguiente página. Haciendo click en cada botón se abre una ventana nueva. Cada ventana tiene una x en la parte derecha superior para cerrarla. Los juegos interactivos tienen instrucciones cada uno. 
 
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
 Etapa 3: Problemas identificados
 En el apartado de "juegos interactivos", uno de ellos es jugar con el ratón (al deslizar el ratón, una gota de agua hace el mismo movimiento). El juego consiste en regar las plantas llevando el agua através der un laberinto. Sin embargo, al abrir de nuevo el proyecto, las flores y el laberinto dan error y no aparecen en la escena. 
 
