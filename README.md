@@ -12,7 +12,7 @@ Resumen : Este proyecto muestra un portafolio personal. Aparecen obras que he re
 
 Estilo/género: portafolio
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : !^[imagen de mi logotipo personal](https://mail.google.com/mail/u/0/popout?ver=1xaru2sqr78c9#attid%253Datt_196fcd5b56a5e905_0.1_9750e89a_d00d2580_78c35cad_88b9f962_2579e338%25252FIMG_3424.JPG)
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -22,11 +22,11 @@ Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edg
 
 Tamaño proyecto: 14MB
 
-Fecha : 14/05/2025
+Fecha : 23/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
+Github:LourdesLara
 Instagram: lourdeeslc.art
 
 ## 2. Memoria del proyecto
