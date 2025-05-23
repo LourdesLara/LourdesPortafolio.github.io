@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Portafolio Personal
 
-Web: (url github.io)
+Web: https://github.com/LourdesLara/LourdesPortafolio.github.io
 
 Autor: Lourdes Lara Castro
 
