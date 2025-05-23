@@ -12,7 +12,8 @@ Resumen : Este proyecto muestra un portafolio personal. Aparecen obras que he re
 
 Estilo/género: portafolio
 
-Logotipo : !^[imagen de mi logotipo personal](https://mail.google.com/mail/u/0/popout?ver=1xaru2sqr78c9#attid%253Datt_196fcd5b56a5e905_0.1_9750e89a_d00d2580_78c35cad_88b9f962_2579e338%25252FIMG_3424.JPG)
+Logotipo : ![IMG_3424 (1)](https://github.com/user-attachments/assets/3013d837-74f6-4b5c-b087-1820635ef94f)
+
 
 (insertar imágenes a resolucion de 100px alto)
 
