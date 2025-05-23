@@ -29,7 +29,7 @@ Instagram: lourdeeslc.art
 ### 2.1. Storyboard:
 Empieza con una animación mostrando mi logotipo personal. Aparece seguidamente un menú principal que nos da la opción de ver información sobre mi, mis obras o juegos interactivos. En las esquinas del menú, aparecen dos estrellas: en una aparecen sonidos que podemos reproducir o parar; en la otra, hay una imagen escondida que podemos hacerla aparecer o desaparecer mediante botones.
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![IMG_3572](https://github.com/user-attachments/assets/ae5b7ac4-a7ae-4fb1-acec-50e148f5eeb9)
 
 ## 3. Metodología
 
@@ -47,10 +47,6 @@ En el apartado de "juegos interactivos", uno de ellos es jugar con el ratón (al
 
 ## 4. Conclusiones
 Me gusta la idea de hacer un portafolio personal interactivo. La animación del principio da interés y anima al público a seguir navegando. La estética es inspirada en mi logotipo personal, por lo que tiene coherencia. Me hubiera gustado introducir juegos más originales o más complejos.
-
-
-**Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
