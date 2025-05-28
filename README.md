@@ -20,7 +20,7 @@ Tamaño proyecto: 70,4MB
 
 Fecha : 23/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios:
 
 Github:LourdesLara
 Instagram: lourdeeslc.art
@@ -29,7 +29,8 @@ Instagram: lourdeeslc.art
 ### 2.1. Storyboard:
 Empieza con una animación mostrando mi logotipo personal. Aparece seguidamente un menú principal que nos da la opción de ver información sobre mi, mis obras o juegos interactivos. En las esquinas del menú, aparecen dos estrellas: en una aparecen sonidos que podemos reproducir o parar; en la otra, hay una imagen escondida que podemos hacerla aparecer o desaparecer mediante botones.
 ### 2.2. Esquema de navegación
-![IMG_3572](https://github.com/user-attachments/assets/ae5b7ac4-a7ae-4fb1-acec-50e148f5eeb9)
+
+![Ilustración_sin_título](https://github.com/user-attachments/assets/2d100d27-843b-45eb-bce3-ecf608b4d1b1)
 
 ## 3. Metodología
 
