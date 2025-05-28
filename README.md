@@ -29,9 +29,7 @@ Instagram: lourdeeslc.art
 ### 2.1. Storyboard:
 Empieza con una animación mostrando mi logotipo personal. Aparece seguidamente un menú principal que nos da la opción de ver información sobre mi, mis obras o juegos interactivos. En las esquinas del menú, aparecen dos estrellas: en una aparecen sonidos que podemos reproducir o parar; en la otra, hay una imagen escondida que podemos hacerla aparecer o desaparecer mediante botones.
 ### 2.2. Esquema de navegación
-
-![Ilustración_sin_título](https://github.com/user-attachments/assets/2d100d27-843b-45eb-bce3-ecf608b4d1b1)
-
+![Ilustración_sin_título (1)](https://github.com/user-attachments/assets/b5a860bd-2341-4901-bb10-79b30a58c48d)
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
